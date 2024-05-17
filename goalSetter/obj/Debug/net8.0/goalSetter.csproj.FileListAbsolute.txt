@@ -1,0 +1,14 @@
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/bin/Debug/net8.0/goalSetter
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/bin/Debug/net8.0/goalSetter.deps.json
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/bin/Debug/net8.0/goalSetter.runtimeconfig.json
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/bin/Debug/net8.0/goalSetter.dll
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/bin/Debug/net8.0/goalSetter.pdb
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/obj/Debug/net8.0/goalSetter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/obj/Debug/net8.0/goalSetter.AssemblyInfoInputs.cache
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/obj/Debug/net8.0/goalSetter.AssemblyInfo.cs
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/obj/Debug/net8.0/goalSetter.csproj.CoreCompileInputs.cache
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/obj/Debug/net8.0/goalSetter.dll
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/obj/Debug/net8.0/refint/goalSetter.dll
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/obj/Debug/net8.0/goalSetter.pdb
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/obj/Debug/net8.0/goalSetter.genruntimeconfig.cache
+/Users/alexisrudy/RiderProjects/goalSetter/goalSetter/obj/Debug/net8.0/ref/goalSetter.dll
